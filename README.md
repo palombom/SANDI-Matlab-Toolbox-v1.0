@@ -3,6 +3,8 @@ The "***SANDI (Soma And Neurite Density Imaging) Matlab Toolbox***" enables mode
 
 The current implementation of SANDI Matlab Toolbox allows to chose between Random Forest regressor (option 'RF', default); Multi Layer Perceptron (option 'MLP') or Generalized Regression Neural Network (option 'GNRR') to fit the SANDI model to given diffusion-weighted data.
 
+For queries about the toolbox or suggestions on how to improve it, please email: palombom@cardiff.ac.uk
+
 ## Dependencies
 To use SANDI Matlab Toolbox you will need a MATLAB distribution with the Parallel Computing Toolbox, the Statistics and Machine Learning Toolbox and the Optimization Toolbox. Additionally, you will also need an external repository that is already included in the SANDI Matlab Toolbox:
 * [Tools for NIfTI and ANALYZE image] Jimmy Shen (2022). Tools for NIfTI and ANALYZE image (https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image), MATLAB Central File Exchange. Retrieved April 16, 2022.
