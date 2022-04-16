@@ -16,7 +16,7 @@ If you use Linux or MacOS:
 2. Navigate to your destination folder;
 3. Clone SANDI Matlab Toolbox:
 ```
-$ git clone https://github.com/fragrussu/sardunet.git 
+$ git clone https://github.com/palombom/SANDI-Matlab-Toolbox.git 
 ```
 4. SARDU-Net tools (i.e. a python class and command-line tools to train and use objects of that class) are now available in the [`./sardunet/ainas`](https://github.com/fragrussu/sardunet/tree/master/ainas) folder (*ainas* means *tools* in [**Sardinian language**](http://sc.wikipedia.org/wiki/Limba_sarda)), while [`./sardunet/tutorials`](https://github.com/fragrussu/sardunet/tree/master/tutorials) contains a number of tutorials. 
 5. You should now be able to use the code. 
