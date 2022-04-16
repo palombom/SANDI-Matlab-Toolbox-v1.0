@@ -5,7 +5,7 @@ The current implementation of SANDI Matlab Toolbox uses either Random Forest reg
 
 ## Dependencies
 To use SANDI Matlab Toolbox you will need a MATLAB distribution with the Parallel Computing Toolbox, the Statistics and Machine Learning Toolbox and the Optimization Toolbox. Additionally, you will also need external repositories that are already included in the SANDI Matlab Toolbox, such as:
-* [NumPy](http://numpy.org)
+* [Tools for NIfTI and ANALYZE image] Jimmy Shen (2022). Tools for NIfTI and ANALYZE image (https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image), MATLAB Central File Exchange. Retrieved April 16, 2022.
 
 ## Download 
 To get the SANDI Matlab Toolbox clone this repository. The tools includes all the necessary dependencies and should be ready for you to run.
@@ -43,7 +43,7 @@ and our preclinical optimization:
 
 
 ## License
-SANDI Matlab Toolbox is distributed under the BSD 2-Clause License, Copyright (c) 2022 Cardiff University. All rights reserved.
+SANDI Matlab Toolbox is distributed under the BSD 2-Clause License (https://github.com/palombom/SANDI-Matlab-Toolbox/LICENSE.md), Copyright (c) 2022 Cardiff University. All rights reserved.
 
 **The use of SANDI Matlab Toolbox MUST also comply with the individual licenses of all of its dependencies.**
 
