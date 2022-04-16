@@ -1,7 +1,7 @@
 # SANDI Matlab Toolbox
-The "***SANDI (Soma And Neurite Density Imaging) Matlab Toolbox***" enables model-based estimation of MR signal fraction of brain cell bodies (of all cell types, from neurons to glia, namely soma) and cell projections (of all cell types, from dentrites and myelinated axons to glial processes, namely neurties ) as well as apparent MR cell body radius and intraneurite and extracellular apparent diffusivities from a suitable diffusion-weighted MRI acquisition (see the original SANDI paper for model assumptions and acquisition requirements DOI: https://doi.org/10.1016/j.neuroimage.2020.116835).
+The "***SANDI (Soma And Neurite Density Imaging) Matlab Toolbox***" enables model-based estimation of MR signal fraction of brain cell bodies (of all cell types, from neurons to glia, namely soma) and cell projections (of all cell types, from dentrites and myelinated axons to glial processes, namely neurties ) as well as apparent MR cell body radius and intraneurite and extracellular apparent diffusivities from a suitable diffusion-weighted MRI acquisition using Machine LEarning based fitting (see the original SANDI paper for model assumptions and acquisition requirements DOI: https://doi.org/10.1016/j.neuroimage.2020.116835).
 
-The current implementation of SANDI Matlab Toolbox allows to chose between Random Forest regressor (option 'RF', default); Multi Layer Perceptron (option 'MLP') or Generalized Regression Neural Network (option 'GNRR') to fit the SANDI model to given diffusion-weighted data.
+The current implementation of SANDI Matlab Toolbox allows to choose between Random Forest regressor (option 'RF', default); Multi Layer Perceptron (option 'MLP') or Generalized Regression Neural Network (option 'GNRR') to fit the SANDI model to given diffusion-weighted data.
 
 For queries about the toolbox or suggestions on how to improve it, please email: palombom@cardiff.ac.uk
 
