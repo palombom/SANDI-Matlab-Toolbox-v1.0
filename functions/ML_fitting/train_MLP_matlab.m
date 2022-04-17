@@ -36,6 +36,6 @@ end
 
 tt = toc;
 
-fprintf('DONE - RF trained in %3.0f sec.\n', tt)
+fprintf('DONE - MLP trained in %3.0f sec.\n', tt)
 
 end
