@@ -1,6 +1,6 @@
 function mpgMean = apply_MLP_matlab(signal, Mdl)
 
-% Apply pretrained Multi LAyer Perceptron regressor
+% Apply pretrained Multi Layer Perceptron regressor
 %
 % Author:
 % Dr. Marco Palombo
@@ -20,6 +20,6 @@ end
 
 tt = toc;
 
-fprintf('DONE - RF fitted in %3.0f sec.\n', tt)
+fprintf('DONE - MLP fitted in %3.0f sec.\n', tt)
 
 end
