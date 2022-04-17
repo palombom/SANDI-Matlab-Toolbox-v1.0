@@ -10,7 +10,7 @@ To use SANDI Matlab Toolbox you will need a MATLAB distribution with the Paralle
 * [Tools for NIfTI and ANALYZE image] Jimmy Shen (2022). Tools for NIfTI and ANALYZE image (https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image), MATLAB Central File Exchange. Retrieved April 16, 2022.
 
 ## Download 
-To get the SANDI Matlab Toolbox clone this repository. The tools includes all the necessary dependencies and should be ready for you to run.
+To get the SANDI Matlab Toolbox clone this repository. The tools include all the necessary dependencies and should be ready for you to run.
 
 If you use Linux or MacOS:
 
@@ -20,7 +20,7 @@ If you use Linux or MacOS:
 ```
 $ git clone https://github.com/palombom/SANDI-Matlab-Toolbox.git 
 ```
-4. The main script is called "SANDI_batch_analysis" and it explains how to analyse one or more datasets with SANDI model
+4. The main script is called "SANDI_batch_analysis" and it explains how to analyse one or more datasets with the SANDI model
 5. You should now be able to use the code. 
 
 ## Usage
@@ -37,7 +37,7 @@ and our preclinical optimization:
 
 
 ## License
-SANDI Matlab Toolbox is distributed under the BSD 2-Clause License (https://github.com/palombom/SANDI-Matlab-Toolbox/blob/main/LICENSE), Copyright (c) 2022 Cardiff University. All rights reserved.
+SANDI Matlab Toolbox is distributed under the BSD 2-Clause License (https://github.com/palombom/SANDI-Matlab-Toolbox/blob/main/LICENSE), Copyright (c) 2022 Cardiff University and University College London. All rights reserved.
 
 **The use of SANDI Matlab Toolbox MUST also comply with the individual licenses of all of its dependencies.**
 
