@@ -27,8 +27,6 @@ $ git clone https://github.com/palombom/SANDI-Matlab-Toolbox.git
 ## Usage
 The script "SANDI_batch_analysis" shows how to use the toolbox to perform the SANDI analysis on one or more datasets. To use the App, just open Matlab and run the "SANDI Matlab Toolbox.mlappinstall" installer (this may work with only MATLAB >=R2019b). 
 
-For any queries or suggestions on how to improve the Toolbox, please email: palombom@cardiff.ac.uk. 
-
 ## Citation
 If you use SANDI Matlab Toolbox, please remember to cite our main SANDI work:
 
