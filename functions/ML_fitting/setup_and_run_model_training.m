@@ -1,4 +1,4 @@
-function [Mdl, train_perf] = setup_and_run_model_training(schemefile, SNR, output_folder, Dsoma, Din_UB, Rsoma_UB, De_UB, seed, MLmodel)
+function [Mdl, train_perf, model] = setup_and_run_model_training(schemefile, SNR, output_folder, Dsoma, Din_UB, Rsoma_UB, De_UB, seed, MLmodel)
 
 % Main script to setup and train the Random
 % Forest (RF) or multi-layers perceptron (MLP) regressors used to fit the
