@@ -20,11 +20,14 @@ If you use Linux or MacOS:
 ```
 $ git clone https://github.com/palombom/SANDI-Matlab-Toolbox.git 
 ```
-4. The main script is called "SANDI_batch_analysis" and it explains how to analyse one or more datasets with the SANDI model
-5. You should now be able to use the code. 
+4. The main script is called "SANDI_batch_analysis" and it explains how to analyse one or more datasets with the SANDI model. 
+5. A very simple Matlab App is also available via the installer "SANDI Matlab Toolbox.mlappinstall" for simple single-subject analysis or for quick tests of performances. This is an experimental version, tested on MacOS Catalina (10.15.7) and MATLAB R2019b Update 4. It can potantially be used to process multiple datasets by performing Step 1 and 3 for each dataset and Step 2 only for the first dataset (i.e. the Machine Learning model is trained only once, stored in the Matlab environment, and can be used to analyse any other datasets until the App is closed or the training Step 2 rerun).
+6. You should now be able to use the code. 
 
 ## Usage
-The script "SANDI_batch_analysis" shows how to use the toolbox to perform the SANDI analysis on one or more datasets.
+The script "SANDI_batch_analysis" shows how to use the toolbox to perform the SANDI analysis on one or more datasets. To use the App, just open Matlab and run the "SANDI Matlab Toolbox.mlappinstall" installer (this may work with only MATLAB >=R2019b). 
+
+For any queries or suggestions on how to improve the Toolbox, please email: palombom@cardiff.ac.uk. 
 
 ## Citation
 If you use SANDI Matlab Toolbox, please remember to cite our main SANDI work:
